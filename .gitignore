@@ -1,0 +1,32 @@
+# Models
+models/
+
+# Datasets
+data/
+
+# Runs
+runs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/cache/
+
+# OS files
+.DS_Store
+Thumbs.db

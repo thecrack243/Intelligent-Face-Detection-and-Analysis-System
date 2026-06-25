@@ -1,0 +1,8 @@
+Metric,Value
+Images Tested,30
+Total Faces,256
+Avg Faces/Image,8.53
+Avg Confidence,0.6570
+Min Confidence,0.3009
+Max Confidence,0.8984
+Avg Inference (ms),61.47
